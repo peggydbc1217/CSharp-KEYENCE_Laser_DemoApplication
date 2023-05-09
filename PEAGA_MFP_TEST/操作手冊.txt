@@ -1,0 +1,3 @@
+點選
+
+bin--> Debug--> PEAGA_MFP_TEST.exe

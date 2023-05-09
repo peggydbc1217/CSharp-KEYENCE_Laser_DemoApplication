@@ -1,0 +1,15 @@
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\bin\Debug\PEAGA_MFP_TEST.exe.config
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\bin\Debug\PEAGA_MFP_TEST.exe
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\bin\Debug\PEAGA_MFP_TEST.pdb
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\bin\Debug\Interop.MB3Lib4.dll
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\bin\Debug\AxInterop.MB3Lib4.dll
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\PEAGA_MFP_TEST.csprojAssemblyReference.cache
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\Interop.MB3Lib4.dll
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\AxInterop.MB3Lib4.dll
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\PEAGA_MFP_TEST.csproj.ResolveComReference.cache
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\PEAGA_MFP_TEST.Form1.resources
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\PEAGA_MFP_TEST.Properties.Resources.resources
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\PEAGA_MFP_TEST.csproj.GenerateResource.cache
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\PEAGA_MFP_TEST.csproj.CoreCompileInputs.cache
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\PEAGA_MFP_TEST.exe
+C:\Users\Larry\source\repos\PEAGA_MFP_TEST\PEAGA_MFP_TEST\obj\Debug\PEAGA_MFP_TEST.pdb
